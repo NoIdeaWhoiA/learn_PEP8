@@ -3,7 +3,7 @@ class userData:
         self.user_name = Name
         self.age = Age
 
-    def PrintInfo(self):
+    def print_info(self):
         print(f"User:{self.user_name},Age:{self.age}")
     
     def process_data(DataList):
